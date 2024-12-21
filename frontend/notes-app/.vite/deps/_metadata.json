@@ -1,0 +1,76 @@
+{
+  "hash": "d97526ab",
+  "configHash": "31097997",
+  "lockfileHash": "3b518407",
+  "browserHash": "4c4147ef",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "2a4d19a8",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "d4edd330",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "09c837a9",
+      "needsInterop": false
+    },
+    "react-icons/md": {
+      "src": "../../node_modules/react-icons/md/index.mjs",
+      "file": "react-icons_md.js",
+      "fileHash": "237c36a9",
+      "needsInterop": false
+    },
+    "react-modal": {
+      "src": "../../node_modules/react-modal/lib/index.js",
+      "file": "react-modal.js",
+      "fileHash": "f8ea1fac",
+      "needsInterop": true
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "8986eeb4",
+      "needsInterop": false
+    },
+    "react-icons/fa6": {
+      "src": "../../node_modules/react-icons/fa6/index.mjs",
+      "file": "react-icons_fa6.js",
+      "fileHash": "66f5baea",
+      "needsInterop": false
+    },
+    "moment/moment": {
+      "src": "../../node_modules/moment/moment.js",
+      "file": "moment_moment.js",
+      "fileHash": "bf35db90",
+      "needsInterop": true
+    },
+    "react-icons/io": {
+      "src": "../../node_modules/react-icons/io/index.mjs",
+      "file": "react-icons_io.js",
+      "fileHash": "74755e4e",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-UROD2AIY": {
+      "file": "chunk-UROD2AIY.js"
+    },
+    "chunk-YHKKLOKN": {
+      "file": "chunk-YHKKLOKN.js"
+    },
+    "chunk-N4N5IM6X": {
+      "file": "chunk-N4N5IM6X.js"
+    },
+    "chunk-LK32TJAX": {
+      "file": "chunk-LK32TJAX.js"
+    }
+  }
+}
